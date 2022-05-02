@@ -1,0 +1,61 @@
+.jumbotron{
+    margin-top: 10px;
+}
+
+
+body{
+    background-color: gray;
+}
+
+.title
+{
+    color: #FFF;
+    font-size: 3.9em;
+    font-family: 'Bowlby One SC', cursive;
+    margin-left: -50px;
+    margin-top: 20px;
+    
+}
+.card
+{
+    margin-top: 10px;
+    margin-left: 55px;
+}
+
+.wrongGuesses
+{
+    color: #FFF;
+}
+
+.logo
+{
+    width: 100px;
+}
+
+.row
+{
+    padding-top: 20px;
+}
+
+#greatJobCorrect{
+    display: none;
+    width: 25%;
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+}
+
+#coachJ{
+    display: none;
+    width: 25%;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+
+}
+
+.display-4
+{
+    font-size: 8.0em;
+    text-align: center;
+}
